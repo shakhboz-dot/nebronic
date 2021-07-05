@@ -1,7 +1,7 @@
 ### Welcome there the world of flutter 👋
 
 
-- 🔭 I’m currently working on nowhere
+- 🔭 I’m currently working on Nowhere
 - 🌱 I’m currently learning Flutter and Dart
 - 👯 I’m looking to collaborate on Nothing
 - 🤔 I’m looking for help with Nothing

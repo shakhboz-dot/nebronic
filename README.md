@@ -1,4 +1,4 @@
-### Welcome there the world of flutter 👋
+### 👋
 
 
 - 🔭 I’m currently working on Nowhere

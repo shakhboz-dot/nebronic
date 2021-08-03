@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, It is a Coder </h1>
 
-<h3 align="center">Full Stack Development strengthen the diversity of ability</h3>
+<h3 align="center">Full Stack Development strengthens the diversity of ability</h3>
 
 
-
+## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on Nowhere
 - 🌱 I’m currently learning Flutter and Dart

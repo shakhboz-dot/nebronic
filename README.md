@@ -1,6 +1,8 @@
 <a href="https://ibb.co/FqGfwF4"><img width="100%" height="auto" src="https://i.ibb.co/HpmMzjT/839ef4840886e3c7e9af9fa9b4801617.png" alt="839ef4840886e3c7e9af9fa9b4801617" border="0"  class="center" height="175px"></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Coder </h1>
+
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 ### 👋
 

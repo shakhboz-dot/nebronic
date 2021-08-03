@@ -20,7 +20,7 @@
 <br/>
 
 ## Connect with me:
-<p align="left">
+<p align="center">
 
 <a href = "https://www.linkedin.com/in/shakhboz-akhmatov-6495bb216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/shakhboz.akhmatov/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>

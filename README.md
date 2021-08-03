@@ -1,4 +1,4 @@
-<a href="https://ibb.co/HgD5B2Q"><img src="https://i.ibb.co/w6N5BL1/Featured-image-920x415-How-much-does-Flutter-app-development-cost.png" alt="Featured-image-920x415-How-much-does-Flutter-app-development-cost" border="0"></a>
+<a href="https://ibb.co/HgD5B2Q"><img width="100%" height="auto" src="https://i.ibb.co/w6N5BL1/Featured-image-920x415-How-much-does-Flutter-app-development-cost.png" alt="Featured-image-920x415-How-much-does-Flutter-app-development-cost" border="0" ></a>
 
 
 ### 👋
